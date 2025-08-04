@@ -16,3 +16,34 @@ Keeps your workspace clean and reduces digital clutter.
 `os`, `shutil`
 
 ---
+
+## 2. 📝 Quick Note to Google Docs / Local File
+
+**📌 Description:**  
+A quick note GUI app built with Python. Type your thought → auto-saves to Google Docs or a local `.txt` file.
+
+**🚀 Productivity Impact:**  
+Capture ideas instantly before they slip away.
+
+**📦 Modules Used:**  
+`tkinter`, `gspread`, `oauth2client` *(or basic file I/O for local)*
+
+---
+ 
+## 3. ⏰ Daily Schedule Notifier
+
+**📌 Description:**  
+Create reminders for:
+- Pomodoro sessions 🍅  
+- Daily standups 🧍  
+- Lunch breaks 🍱  
+
+Get notified with pop-ups or sounds.
+
+**🚀 Productivity Impact:**  
+Supports time-blocking and builds discipline.
+
+**📦 Modules Used:**  
+`schedule`, `plyer`, `time`
+
+---
